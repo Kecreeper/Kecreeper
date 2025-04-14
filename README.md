@@ -1,5 +1,5 @@
 <h1 align="center">
-  more knowledgable than towaf hossain in
+  i can print("hello world") in the following
 </h1>
 <p align="center">
   <a href="https://skillicons.dev">
